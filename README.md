@@ -25,4 +25,4 @@
 ## 截图
 
 
- <img src='./img/img.jpg' width=280  height = 500>
+ <img src='https://github.com/SNXJ/NoMark/tree/master/img/img.png' width=280  height = 500>
