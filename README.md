@@ -50,3 +50,4 @@
 ## 截图
 
 ![](./img/img.jpg)
+ <img src='https://github.com/SNXJ/NoMark/tree/master/img/img.jpg' width=280  height = 500>
