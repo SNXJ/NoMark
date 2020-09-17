@@ -70,5 +70,13 @@
         android:textColor="@color/text_33"
         android:textSize="16sp" />
 
+    <com.snxj.nomark.FixedVideoView
+        android:id="@+id/video_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        />
+
 
 </LinearLayout>
